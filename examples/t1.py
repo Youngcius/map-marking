@@ -12,6 +12,7 @@ device = u2.connect('cb29756c')
 #########################
 # connect via WiFi
 # device = u2.connect('http://169.231.87.203:38197')
+# device = u2.connect('169.231.87.203:37625')
 
 # print device info
 # console.print(device.device_info)

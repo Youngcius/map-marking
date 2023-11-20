@@ -1,0 +1,4 @@
+
+
+UIAutomatorServer().stop()
+UIAutomatorServer().start()
